@@ -1,5 +1,4 @@
-🌟 Personal Portfolio Website
-Welcome to my Personal Portfolio Website — a clean, beginner-friendly project built using HTML and basic CSS.
+Welcome to My Personal Portfolio Website — a clean, beginner-friendly project built using HTML and basic CSS.
 
 This website serves as a digital space to introduce myself, showcase my skills, and provide an easy way to connect with me.
 
